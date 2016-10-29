@@ -1,3 +1,3 @@
 def adsa():
-	print("aaa")
+	print(".3654")
 adsa()
