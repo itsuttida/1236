@@ -1,6 +1,3 @@
 def adsa():
-
-	print("ccc")
-	print(".3654")
-
+	PRINT("ART KAK")
 adsa()
