@@ -1,3 +1,3 @@
 def adsa():
-	print("aaa")
+	print("b555b")
 adsa()
